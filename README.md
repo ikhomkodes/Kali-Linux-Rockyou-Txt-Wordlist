@@ -8,7 +8,7 @@
   Large files can't be uploaded to github so visit the link below to get rockyou.txt file and you can download in you Kali Linux to see
   what's inside and how large is this file.
   
-  https://github.com/ikhomkodes/Kali-Linux-Rockyou-Txt-Wordlist/blob/main/errorComitting133MB-rockyouTxtFile.png?raw=true
+  ![alt text](https://github.com/ikhomkodes/Kali-Linux-Rockyou-Txt-Wordlist/blob/main/errorComitting133MB-rockyouTxtFile.png?raw=true)
   
   ### @ikhomkodes
   ## For more details
