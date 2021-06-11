@@ -17,7 +17,5 @@ https://dekisoft.com/rockyou-txt-gz-password-list-download/
 ## Watch Youtube Video:
 https://www.youtube.com/watch?v=rHg9206B7ac&t=329s
 
-![alt text](https://www.youtube.com/watch?v=rHg9206B7ac&t=329s)
-
 #### Please like, share, comment and subscribe my Youtube channel:
-  
+@ikhomkodes
