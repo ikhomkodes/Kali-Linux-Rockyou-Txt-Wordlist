@@ -4,5 +4,5 @@
   Rockyou is a password dictionary created with an intention to support in performing various kinds of password brute-force attacks. 
   Rockyou.txt download is a free wordlist found in Kali Linux used by various penetration testers.
   
-  You can download using this link:
+  ## For more details
   https://dekisoft.com/rockyou-txt-gz-password-list-download/
